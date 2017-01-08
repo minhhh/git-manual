@@ -1,4 +1,4 @@
-# git-manual
+# Git Manual
 Git manual and related topics such as branching process.
 
 ## <a id="toc">TOC
