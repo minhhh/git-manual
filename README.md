@@ -50,7 +50,11 @@ Git manual and related topics such as branching process.
 #### Tagging
 
 ```
-    git tag -a <tag-name> -m "Tag message"
+    git tag -a <tagname> -m "Tag message"
+    
+    # delete tag on remote
+    git tag --delete <tagname>
+    git push origin :<tagname>
 ```
 <br/>
 
