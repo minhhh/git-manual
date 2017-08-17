@@ -350,6 +350,13 @@ or
 ```
 <br/>
 
+#### Push to upstream using specified ssh-key
+
+```
+    GIT_SSH_COMMAND='ssh -i ~/.ssh/yourprivatekey' git push --set-upstream origin develop
+```
+<br/>
+
 [TOC](#user-content-toc)
 
 
